@@ -15,4 +15,8 @@
 ![Image 4](images/custom-break.png)
 
 ### Advanced way to use
+<<<<<<< HEAD
 ![Image 5](images/adv.png)
+=======
+![Image 5](images/adv.png)
+>>>>>>> 80cb05fbf6ab3d50a9b97f6051133fe58e2df625
