@@ -1,5 +1,5 @@
 # Console Command Parser
-***This is used to parse some information from the command-line***
+***This is used to parse information from the command-line***
 
 ##### Example
 ![Image 1](images/adv.png)
